@@ -1,0 +1,40 @@
+{
+    "arrivals": [
+        {
+            "image": "assets/img/new1-img.png",
+            "title": "Haunted House",
+            "price": "$14.99",
+            "discount": "$29.99"
+        },
+        {
+            "image": "assets/img/new2-img.png",
+            "title": "Halloween Candle",
+            "price": "$11.99",
+            "discount": "$21.99"
+        },
+        {
+            "image": "assets/img/new3-img.png",
+            "title": "Witch Hat",
+            "price": "$4.99",
+            "discount": "$9.99"
+        },
+        {
+            "image": "assets/img/new4-img.png",
+            "title": "Rip",
+            "price": "$24.99",
+            "discount": "$44.99"
+        },
+        {
+            "image": "assets/img/new5-img.png",
+            "title": "Terrifying Crystal Ball",
+            "price": "$5.99",
+            "discount": "$12.99"
+        },
+        {
+            "image": "assets/img/new6-img.png",
+            "title": "Witch Broom",
+            "price": "$7.99",
+            "discount": "$14.99"
+        }
+    ]
+}

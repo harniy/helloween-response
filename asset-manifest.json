@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/helloween-response/static/css/main.4b605d3c.chunk.css",
+    "main.js": "/helloween-response/static/js/main.5aaf5d12.chunk.js",
+    "main.js.map": "/helloween-response/static/js/main.5aaf5d12.chunk.js.map",
+    "runtime-main.js": "/helloween-response/static/js/runtime-main.a50434db.js",
+    "runtime-main.js.map": "/helloween-response/static/js/runtime-main.a50434db.js.map",
+    "static/css/2.acb3237e.chunk.css": "/helloween-response/static/css/2.acb3237e.chunk.css",
+    "static/js/2.4db34564.chunk.js": "/helloween-response/static/js/2.4db34564.chunk.js",
+    "static/js/2.4db34564.chunk.js.map": "/helloween-response/static/js/2.4db34564.chunk.js.map",
+    "index.html": "/helloween-response/index.html",
+    "static/css/2.acb3237e.chunk.css.map": "/helloween-response/static/css/2.acb3237e.chunk.css.map",
+    "static/css/main.4b605d3c.chunk.css.map": "/helloween-response/static/css/main.4b605d3c.chunk.css.map",
+    "static/js/2.4db34564.chunk.js.LICENSE.txt": "/helloween-response/static/js/2.4db34564.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a50434db.js",
+    "static/css/2.acb3237e.chunk.css",
+    "static/js/2.4db34564.chunk.js",
+    "static/css/main.4b605d3c.chunk.css",
+    "static/js/main.5aaf5d12.chunk.js"
+  ]
+}
