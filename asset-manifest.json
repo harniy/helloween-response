@@ -1,23 +1,45 @@
 {
   "files": {
     "main.css": "/helloween-response/static/css/main.4b605d3c.chunk.css",
-    "main.js": "/helloween-response/static/js/main.5aaf5d12.chunk.js",
-    "main.js.map": "/helloween-response/static/js/main.5aaf5d12.chunk.js.map",
+    "main.js": "/helloween-response/static/js/main.85c4fdf4.chunk.js",
+    "main.js.map": "/helloween-response/static/js/main.85c4fdf4.chunk.js.map",
     "runtime-main.js": "/helloween-response/static/js/runtime-main.a50434db.js",
     "runtime-main.js.map": "/helloween-response/static/js/runtime-main.a50434db.js.map",
     "static/css/2.acb3237e.chunk.css": "/helloween-response/static/css/2.acb3237e.chunk.css",
-    "static/js/2.4db34564.chunk.js": "/helloween-response/static/js/2.4db34564.chunk.js",
-    "static/js/2.4db34564.chunk.js.map": "/helloween-response/static/js/2.4db34564.chunk.js.map",
+    "static/js/2.ccd80988.chunk.js": "/helloween-response/static/js/2.ccd80988.chunk.js",
+    "static/js/2.ccd80988.chunk.js.map": "/helloween-response/static/js/2.ccd80988.chunk.js.map",
     "index.html": "/helloween-response/index.html",
     "static/css/2.acb3237e.chunk.css.map": "/helloween-response/static/css/2.acb3237e.chunk.css.map",
     "static/css/main.4b605d3c.chunk.css.map": "/helloween-response/static/css/main.4b605d3c.chunk.css.map",
-    "static/js/2.4db34564.chunk.js.LICENSE.txt": "/helloween-response/static/js/2.4db34564.chunk.js.LICENSE.txt"
+    "static/js/2.ccd80988.chunk.js.LICENSE.txt": "/helloween-response/static/js/2.ccd80988.chunk.js.LICENSE.txt",
+    "static/media/about-img.png": "/helloween-response/static/media/about-img.3154f0c1.png",
+    "static/media/category1-img.png": "/helloween-response/static/media/category1-img.a28e06f5.png",
+    "static/media/category2-img.png": "/helloween-response/static/media/category2-img.ffec7657.png",
+    "static/media/category3-img.png": "/helloween-response/static/media/category3-img.db028768.png",
+    "static/media/discount-img.png": "/helloween-response/static/media/discount-img.2b6cee9b.png",
+    "static/media/footer1-img.png": "/helloween-response/static/media/footer1-img.503de511.png",
+    "static/media/footer2-img.png": "/helloween-response/static/media/footer2-img.31b47056.png",
+    "static/media/home1-img.png": "/helloween-response/static/media/home1-img.085997d0.png",
+    "static/media/home2-img.png": "/helloween-response/static/media/home2-img.a376c7e5.png",
+    "static/media/home3-img.png": "/helloween-response/static/media/home3-img.f2771a6f.png",
+    "static/media/new1-img.png": "/helloween-response/static/media/new1-img.14b818ce.png",
+    "static/media/new2-img.png": "/helloween-response/static/media/new2-img.3b67b487.png",
+    "static/media/new3-img.png": "/helloween-response/static/media/new3-img.988c363c.png",
+    "static/media/new4-img.png": "/helloween-response/static/media/new4-img.3c738653.png",
+    "static/media/new5-img.png": "/helloween-response/static/media/new5-img.ffa58e05.png",
+    "static/media/new6-img.png": "/helloween-response/static/media/new6-img.06eea295.png",
+    "static/media/trick-treat1-img.png": "/helloween-response/static/media/trick-treat1-img.0bee3583.png",
+    "static/media/trick-treat2-img.png": "/helloween-response/static/media/trick-treat2-img.67faf267.png",
+    "static/media/trick-treat3-img.png": "/helloween-response/static/media/trick-treat3-img.33cce08c.png",
+    "static/media/trick-treat4-img.png": "/helloween-response/static/media/trick-treat4-img.555d95fc.png",
+    "static/media/trick-treat5-img.png": "/helloween-response/static/media/trick-treat5-img.2cc3bb48.png",
+    "static/media/trick-treat6-img.png": "/helloween-response/static/media/trick-treat6-img.723858d8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a50434db.js",
     "static/css/2.acb3237e.chunk.css",
-    "static/js/2.4db34564.chunk.js",
+    "static/js/2.ccd80988.chunk.js",
     "static/css/main.4b605d3c.chunk.css",
-    "static/js/main.5aaf5d12.chunk.js"
+    "static/js/main.85c4fdf4.chunk.js"
   ]
 }
